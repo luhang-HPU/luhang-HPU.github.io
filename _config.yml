@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Welcome to Customizable Computing Lab!"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hang Lu"
+description              : &description "Welcome to Customizable Computing Lab!"
 url                      : https://luhang-CCL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luhang-CCL/luhang-CCL.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hang Lu（路航）"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor, Master Tutor\nState Key Laborotory of Computer Architecture"
+  bio              : "Associate Professor, Master Tutor @ State Key Laborotory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "luhang@ict.ac.cn"
+  googlesch  email            : "luhang@ict.ac.cn"olar    : #"http://yourfullgooglescholarurl.com"
+
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
