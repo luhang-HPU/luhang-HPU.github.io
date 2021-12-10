@@ -17,3 +17,15 @@ His research interest is Customizable Computing, which entails a series of key r
 路航的主要研究方向为可定制计算，涉及一系列面向低功耗计算平台的关键技术领域，包括AI芯片、深度学习、密码学等多个方面。路航带领团队探索了AI芯片的软硬件协同设计方法，深度神经网络模型的剪枝量化方法，fast video understanding，视频的超分辨率重建技术以及在手机平台上的部署。相关研究成果发表在MICRO、HPCA、DAC、ICCAD、TCAD、TVLSI、ICPP、ICCD、ASPDAC等领域内国际权威期刊和会议，并获最佳论文奖提名1次。路航拥有8项“国际发明专利”，授权国家包括中国、美国、欧盟、日本、韩国。近十年来，路航负责或参与多项国家自然科学基金项目以及华为、oppo、江南计算技术研究所等企事业单位合作研究项目。此外，他还出版1部专著和1部译著，并多次担任领域内国际顶级会议的审稿人和session主席。在学期间他曾获得国家奖学金提名，中国科学院“朱李月华”优秀博士生奖，中科院计算所“所长特别奖”等荣誉。
 
 ## Customizable Computing Lab
+
+The researches in this Lab focus on new strategies for "Customizable Computing". To represent its accurate definition, I intend to cite the statements from Prof. Jason Cong -- “Since its establishment in 2009, the Center for Domain-Specific Computing (CDSC) has focused on customizable computing. We believe that future computing systems will be customizable with extensive use of accelerators, as custom-designed accelerators often provide 10-100X performance/energy efficiency over the general-purpose processors. Such an accelerator-rich architecture presents a fundamental departure from the classical von Neumann architecture, which emphasizes efficient sharing of the executions of different instructions on a common pipeline, providing an elegant solution when the computing resource is scarce. In contrast, the accelerator-rich architecture features heterogeneity and customization for energy efficiency; this is better suited for energy-constrained designs where the silicon resource is abundant and spatial computing is favored-which has been the case with the end of Dennard scaling. Currently, customizable computing has garnered great interest; for example, this is evident by Intel's $17 billion acquisition of Altera in 2015 and Amazon's introduction of field-programmable gate-arrays (FPGAs) in its AWS public cloud. ”
+
+**We consider this hot topic from both the software and hardware perspective, and seek to find an appropriate way to <span style="color:#953734;">design the customizable computing platform to serve the intelligent and secure systems</span>. Our research interests include:**
+  * State-of-the-art Deep Learning Algorithms, i.e. the hottest vision transformer, video super resolution, object detection etc. 
+  * New Hardware Architectures, i.e. sparsity-aware deep learning accelerators
+  * Privacy-Preserving Computing, i.e. homomorphic encryption 
+  * RISC-V Open-Source Processor
+
+## Recruiting （招生）
+我们都非常年轻，有激情，是个充满活力的团队。<br>
+<img src='/images/CCL.jpg'>
