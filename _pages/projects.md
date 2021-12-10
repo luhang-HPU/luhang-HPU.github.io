@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 基于深度学习的视频画质增强<br>
-<video width="640" height="360" controls autoplay muted>  
+<video width="640" height="480" controls autoplay muted>  
     <source src="/videos/football.mp4" type="video/mp4">
 </video>
-<video width="640" height="360" controls autoplay muted>  
+<video width="640" height="480" controls autoplay muted>  
     <source src="/videos/bbjx.mp4" type="video/mp4">
 </video>
 
