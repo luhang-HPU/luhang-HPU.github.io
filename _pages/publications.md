@@ -7,63 +7,63 @@ author_profile: true
 
 ## Research Papers
 
-[Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration](/files/bitlet-MICRO21.pdf)<br>
 **Hang Lu (路航)**, Liang Chang, Chenglong Li, Zixuan Zhu, Shengjian Lu, Yanhuan Liu, Mingzhe Zhang<br>
 IEEE/ACM 54th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2021.
 
-[Streamline Ring ORAM Accesses through Spatial and Temporal Optimization]<br>
+[Streamline Ring ORAM Accesses through Spatial and Temporal Optimization](/files/Streamline-Ring-HPCA21.pdf)<br>
 Dingyuan Cao, Mingzhe Zhang, **Hang Lu (路航)**, Xiaochun Ye, Dongrui Fan, Yuezhi Che, Rujia Wang<br>
-IEEE/ACM 27th International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2021.
+IEEE 27th International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2021.
 
-[BitX: Empower Versatile Inference for Hardware Runtime Pruning](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[BitX: Empower Versatile Inference for Hardware Runtime Pruning](/files/bitX-ICPP21.pdf)<br>
 Hongyan Li, **Hang Lu\* (路航)**, Jiawen Huang, Wenxu Wang, Mingzhe Zhang, Wei Chen, Liang Chang, Xiaowei Li<br>
 IEEE/ACM 50th International Conference on Parallel Processing (**ICPP, CCF B类**)，2021.
 
-[Chaotic Weights: A Novel Approach to Protect Intellectual Property of Deep Neural Networks](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[Chaotic Weights: A Novel Approach to Protect Intellectual Property of Deep Neural Networks](/files/chaotic-TCAD.pdf)<br>
 Ning Lin, Xiaoming Chen, **Hang Lu (路航)**, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2021.
 
-[Architecting Effectual Computation for Machine Learning Accelerators](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[Architecting Effectual Computation for Machine Learning Accelerators](/files/TETRIS-TCAD.pdf)<br>
 **Hang Lu\* (路航)**, Mingzhe Zhang, Yinhe Han, Qi Wang, Huawei Li, Xiaowei Li<br>
  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2020.
 
-[ShuttleNoC: Power-Adaptable Communication Infrastructure for Many-core Processors](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[ShuttleNoC: Power-Adaptable Communication Infrastructure for Many-core Processors](/files/SHUTTLENOC-TCAD.pdf)<br>
 **Hang Lu\* (路航)**, Yisong Chang, Ning Lin, Xin Wei, Guihai Yan, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2019.
 
-[HeadStart: Enforce Optimal Inceptions in Pruning Deep Convolutional Neural Networks for Efficient Inference on GPGPUs](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[HeadStart: Enforce Optimal Inceptions in Pruning Deep Convolutional Neural Networks for Efficient Inference on GPGPUs](/files/headstart-DAC19.pdf)<br>
 Ning Lin, **Hang Lu\* (路航)**, Xin Wei, Xiaowei Li<br>
 IEEE/ACM 56th International Design Automation Conference (**DAC, CCF A类**), 2019.
 
-[When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[When Deep Learning Meets the Edge: Auto-Masking Deep Neural Networks for Efficient Machine Learning on Edge Devices](/files/AUTO-MASK-ICCD19.pdf)<br>
 Ning Lin, **Hang Lu\* (路航)**, Xing Hu, Jingliang Gao, Xiaowei Li<br>
 IEEE 37th International Conference on Computer Design (**ICCD, CCF B类**), 2019.
 
-[VNet: A Versatile Deep Neural Network Model for Efficient Semantic Segmentation](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[VNet: A Versatile Deep Neural Network Model for Efficient Semantic Segmentation](/files/VNet-short-ICCD19.pdf)<br>
 Ning Lin, **Hang Lu\* (路航)**, Xiaowei Li,<br>
 IEEE 37th International Conference on Computer Design (**ICCD, CCF B类**), 2019.
 
-[Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators](/files/tetris-ICCAD18.pdf)<br>
 **Hang Lu\* (路航)**, Xin Wei, Ning Lin, Guihai Yan, Xiaowei Li<br>
 IEEE/ACM 37th International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2018.
 
-[Redeeming Chip-level Power Efficiency by Collaborative Management of the Computation and Communication](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[Redeeming Chip-level Power Efficiency by Collaborative Management of the Computation and Communication](/files/cocom-ASPDAC19.pdf)<br>
 Ning Lin, **Hang Lu\* (路航)**, Xin Wei, Xiaowei Li<br>
-IEEE 24th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2018.
+ACM 24th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2018.
 
-[PowerTrader: Enforcing Autonomous Power Management for Large-scale Many-core Processors](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[PowerTrader: Enforcing Autonomous Power Management for Large-scale Many-core Processors](/files/powertrader-TMSCS.pdf)<br>
 **Hang Lu\* (路航)**, Guihai Yan, Yinhe Han, Xiaowei Li<br>
 IEEE Transactions on Multi-scale Computing Systems (TMSCS), 2017.
 
-[RISO: Enforce Non-interfered Performance with Relaxed Network-on-Chip Isolation in Manycore Cloud Processors](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[RISO: Enforce Non-interfered Performance with Relaxed Network-on-Chip Isolation in Manycore Cloud Processors](/files/RISO-TVLSI15.pdf)<br>
 **Hang Lu\* (路航)**, Binzhang Fu, Ying Wang, Yinhe Han, Guihai Yan, Xiaowei Li<br>
 IEEE Transactions on Very Large Scale Integration Systems (**TVLSI, CCF B类**), 2015.
 
-[ShuttleNoC: Boosting On-chip Communication Efficiency Through Localized Power Adaptation](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[ShuttleNoC: Boosting On-chip Communication Efficiency Through Localized Power Adaptation](/files/shuttlenoc_ASPDAC15.pdf)<br>
 **Hang Lu\* (路航)**, Guihai Yan, Yinhe Han, Ying Wang, Xiaowei Li<br>
 IEEE 20th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类,**“最佳论文奖”提名**), 2015.
 
-[RISO: Relaxed Networks-on-Chip Isolation for Cloud Processors](/files/QuCloud_HPCA_2021_ready.pdf)<br>
+[RISO: Relaxed Networks-on-Chip Isolation for Cloud Processors](/files/RISO-DAC13.pdf)<br>
 **Hang Lu\* (路航)**, Guihai Yan, Yinhe Han, Binzhang Fu, Xiaowei Li<br>
 IEEE/ACM 50th International Design Automation Conference (**DAC, CCF A类**), 2013.
 

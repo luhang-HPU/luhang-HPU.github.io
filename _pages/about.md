@@ -26,16 +26,15 @@ The researches in this Lab focus on new strategies for "Customizable Computing".
   * Privacy-Preserving Computing, i.e. homomorphic encryption 
   * RISC-V Open-Source Processor
 
-## Recruiting （招生）
-我们都非常年轻，有激情，是个充满活力的团队！大家来自五湖四海有缘相聚在一起，为共同的事业努力，一起学习共同进步。<br>
-**我们希望你：**出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过FPGA相关设计比赛如<span style="color:#953734;">**DAC System Design Contest (SDC)，Low Power Computer Vision Challenge (LPCV)**</span>，或者算法类比赛如<span style="color:#953734;">**阿里天池大赛，CVPR的各项challenge，国内AI大赛等**</span>并拿到过名次。
-<img src='/images/CCL.jpg'><br><br>
-**We need you here and welcome on board!**
-
-
 ## Services
 * 2021, the 20th ACM SIGOPS ChinaSys, session speaker
 * 2020，第57届国际设计自动化会议DAC（CCF A类）程序委员会，审稿人
 * 2019，第56届国际设计自动化会议DAC（CCF A类）程序委员会，审稿人
 * 2019，IEEE网络、体系结构与存储国际会议（NAS）组委会，session主席
 * 2019，IEEE网络、体系结构与存储国际会议（NAS）程序委员会，审稿人
+
+## Recruiting （招生）
+我们都非常年轻，有激情，是个充满活力的团队！大家来自五湖四海有缘相聚在一起，为共同的事业努力，一起学习共同进步。<br>
+**我们希望你：**出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过FPGA相关设计比赛如<span style="color:#953734;">**DAC System Design Contest (SDC)，Low Power Computer Vision Challenge (LPCV)**</span>，或者算法类比赛如<span style="color:#953734;">**阿里天池大赛，CVPR的各项challenge，国内AI大赛等**</span>并拿到过名次。
+<img src='/images/CCL.jpg'><br><br>
+**We need you here and welcome on board!**
