@@ -86,8 +86,8 @@ IEEE/ACM 50th International Design Automation Conference (**DAC, CCF A类**), 20
 
 ## Books
 
-**《多核处理器设计优化——低功耗、高可靠、易测试》**，科学出版社，2021.<br>
+[**《多核处理器设计优化——低功耗、高可靠、易测试》**](https://item.jd.com/10041688084122.html)，科学出版社，2021.<br>
 李晓维、**路航**、李华伟、王颖、鄢贵海 著
 
-**《Customizable Computing，可定制计算》**，机械工业出版社，2018.<br>
+[**《Customizable Computing，可定制计算》**](https://item.jd.com/12388764.html)，机械工业出版社，2018.<br>
 鄢贵海、叶靖、王颖、**路航**、卢文岩、李家军、吴靖雅 译，Yu-Ting Chen, Jason Cong, Michael Gill, Glenn Reinman, Bingjun Xiao 著
