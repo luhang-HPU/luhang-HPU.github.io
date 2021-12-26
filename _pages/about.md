@@ -28,7 +28,8 @@ The researches in this Lab focus on new strategies for "Customizable Computing".
   * **RISC-V Open-Source Processor**
 
 ## Services
-* 2021, the 20th ACM SIGOPS ChinaSys, session speaker
+* 2022，第4届计算机体系结构国家重点实验室高峰论坛，演讲嘉宾，演讲题目——“端侧视频画质增强的软硬件设计方法研究”
+* 2021, the 20th ACM SIGOPS ChinaSys, session speaker, title: "Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration"
 * 2020，第57届国际设计自动化会议DAC（CCF A类）程序委员会，审稿人
 * 2019，第56届国际设计自动化会议DAC（CCF A类）程序委员会，审稿人
 * 2019，IEEE网络、体系结构与存储国际会议（NAS）组委会，session主席
