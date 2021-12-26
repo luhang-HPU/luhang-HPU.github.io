@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Customizable Computing Lab!"
+title                    : "Welcome to CCL!"
 title_separator          : "-"
 name                     : &name "Hang Lu"
 description              : &description "Welcome to Customizable Computing Lab!"
