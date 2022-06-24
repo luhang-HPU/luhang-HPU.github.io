@@ -28,6 +28,7 @@ The researches in this Lab focus on new strategies for "Customizable Computing".
   * **New Software/Hardware Architectures for AI,** i.e. sparsity-aware AI chip design, the hottest vision transformer, image/video super resolution, object detection, etc. 
 
 ## Services
+* 2022.06，受邀在《中国计算机学会通讯》(CCCF)第18卷第6期发表文章——“MICRO 2021——拥抱更广阔的未来” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/MICRO-CCCF-LU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/CCF.png' height=30 width=41>
 * 2022.01，华为诺亚方舟实验室访问，演讲题目——“Re-architecting the Computation System for Deep Learning Applications: software and hardware approach” <img src='/images/noahark.jfif' height=30 width=115>
 * 2022.01，第4届计算机体系结构国家重点实验室前沿高峰论坛，演讲嘉宾，演讲题目——“端侧视频画质增强的软硬件设计方法研究” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/carch_summit22.pdf)<span style="color:#953734;">\]</span>** <img src='/images/carch_submit2022.png' height=23 width=54>
 * 2021.12, the 20th ACM SIGOPS ChinaSys, session speaker, title: "Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration" **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/bitlet-chinasys-v3.pdf)<span style="color:#953734;">\]</span>** <img src='/images/chinasys2021.png' height=27 width=148>
