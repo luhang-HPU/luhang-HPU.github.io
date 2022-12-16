@@ -28,6 +28,7 @@ The researches in this Lab focus on new strategies for "Customizable Computing".
   * **New Software/Hardware Architectures for AI,** i.e. sparsity-aware AI chip design, the hottest vision transformer, image/video super resolution, object detection, etc. 
 
 ## Services
+* 2022.12，受邀参加新浪2022科技风云榜年度盛典，并做报告——[**“数字经济中的隐私计算技术与芯片”**](https://finance.sina.cn/tech/2022-12-16/detail-imxwwaqr1918441.d.html) <img src='/images/sinatech.jfif' height=35 width=35>
 * 2022.12，HPC China 2022，第二届超大规模HPC系统研制论坛，演讲嘉宾，演讲题目——“领域应用的定制化硬件加速方法” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/HPCChina2022-HANGLU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/hpcchina2022logo.png' height=30 width=60>
 * 2022.11，受邀参加OPPO TALK，并做报告——“重塑计算系统——服务于深度学习和隐私保护计算的软硬件协同设计方法” <img src='/images/oppo.jpg' height=25 width=50>
 * 2022.06，受邀在《中国计算机学会通讯》(CCCF)第18卷第6期发表文章——“MICRO 2021——拥抱更广阔的未来” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/MICRO-CCCF-LU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/CCF.png' height=30 width=41>
