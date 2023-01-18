@@ -11,11 +11,11 @@ author_profile: true
 Yinghao Yang, Huaizhi Zhang, Shengyu Fan, **Hang Lu\* (路航)**, Mingzhe Zhang, Xiaowei Li<br>
 IEEE 29th International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2023.
 
-<span style="color:#52ABC7;"><big>**BitXpro: Regularity-aware Hardware Runtime Pruning for Deep Neural Networks**</big></span><br>
+[<big>**BitXpro: Regularity-aware Hardware Runtime Pruning for Deep Neural Networks**</big>](/files/BitXpro-TVLSI23.pdf)<br>
 Hongyan Li, **Hang Lu\* (路航)**, Haoxuan Wang, Shengji Deng, Xiaowei Li<br>
 IEEE Transactions on Very Large Scale Integration Systems (**TVLSI, CCF B类**)，2023.
 
-<span style="color:#52ABC7;"><big>**Mortar: Morphing the Bit Level Sparsity for General Purpose Deep Learning Acceleration**</big></span><br>
+[<big>**Mortar: Morphing the Bit Level Sparsity for General Purpose Deep Learning Acceleration**</big>](/files/MORTAR-ASPDAC23.pdf)<br>
 Yunhung Gao, Hongyan Li, Kevin Zhang, Xueru Yu, **Hang Lu\* (路航)**<br>
 ACM 28th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2023.
 
