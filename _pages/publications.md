@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Poseidon-NDP: Practical Fully Homomorphic Encryption Accelerator Based on Near Data Processing Architecture**</big>](/files/Poseidon-NDP-TCAD2023.pdf)<br>
+Yinghao Yang, **Hang Lu\* (路航)**, Xiaowei Li<br>
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2023.
+
 [<big>**Poseidon: Practical Homomorphic Encryption Accelerator**</big>](/files/Poseidon-HPCA2023.pdf)<br>
 Yinghao Yang, Huaizhi Zhang, Shengyu Fan, **Hang Lu\* (路航)**, Mingzhe Zhang, Xiaowei Li<br>
 IEEE 29th International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2023.
