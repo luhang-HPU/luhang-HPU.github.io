@@ -8,8 +8,12 @@ author_profile: true
 ## 全同态处理器 (in progress)
 **This project is sponsored by <span style="color:#953734;">CCF-Huawei Populus Grove Fund（CCF-华为胡杨林基金）<img src='/images/huawei.jpg' height=35 width=35></span>**<br>
 <img src="/images/HPU.png" align="left" width="360" hspace="9" vspace="5" />同态加密计算技术作为一种新型数据安全计算技术，受到了越来越多的关注。首先，同态加密技术可以降低计算供应商数据安全方面的成本。由于同态加密技术允许应用对密文数据直接进行计算，算力提供方无需接触明文数据，即使发生数据泄露，难以给用户造成重大损失。这一特性降低了算力提供方在用户数据安全方面的压力，可以帮助云计算供应商显著降低数据安全维护方面的运营成本。第二，同态加密技术可以吸引更多用户将数据和计算迁移至云端，降低用户的计算成本。由于同态加密计算技术可以直接对密文数据进行处理，算力提供方无需对加密数据进行解密，这将从根本上解决由于数据所有方与算力提供方分离所导致的数据安全风险问题。<img src="/images/poseidon.jfif" align="right" width="127" hspace="9" vspace="5" />
-**虽然同态加密在隐私计算领域有着重要的作用，但是巨大的计算开销阻碍了它的实际应用。如何在保证密文计算结果正确性的前提下，提高计算性能和能效是当前业界公认的难题。**本项目拟通过软硬件协同设计和优化方法，对同态加密进行计算加速，并设计专用加速器原型系统提高其计算性能**（命名为“Poseidon”，波塞冬）**。<br>
-<span style="color:#953734;">**This project is in progress,**</span> and we have published 1 paper regarding this project **<span style="color:#953734;">\[</span>[<span style="color:#953734;">HPCA'23</span>](/files/Poseidon-HPCA2023.pdf)<span style="color:#953734;">\]</span>**.<br>
+**虽然同态加密在隐私计算领域有着重要的作用，但是巨大的计算开销阻碍了它的实际应用。如何在保证密文计算结果正确性的前提下，提高计算性能和能效是当前业界公认的难题。**本项目拟通过软硬件协同设计和优化方法，对同态加密进行计算加速，并设计专用加速器原型系统提高其计算性能**（命名为“Poseidon”，波塞冬）**。<span style="color:#953734;">**This project is in progress,**</span> and we have published 2 papers regarding this project **<span style="color:#953734;">\[</span>[<span style="color:#953734;">HPCA'23</span>](/files/Poseidon-HPCA2023.pdf)<span style="color:#953734;">\]</span><span style="color:#953734;">\[</span>[<span style="color:#953734;">TCAD'23</span>](/files/Poseidon-NDP-TCAD2023.pdf)<span style="color:#953734;">\]</span>**.<br>
+**商用版全同态处理器加速卡产品<span style="color:#953734;">“张江壹号”</span>已经成功部署到[原语科技](https://primihub.com/#/home)隐私计算一体机<img src='/images/primihub.png' height=30 width=70>**<br>
+<img src="/images/ZJ-1.png" align="left" />
+<video width="981" height="601" controls autoplay muted>  
+    <source src="/videos/primihub_machine.mp4" type="video/mp4">
+</video>
 
 ## Sparsity-aware Deep Learning Accelerator (in progress)
 **This project is also collaborated with <span style="color:#953734;">Huawei Technologies Co., Ltd <img src='/images/huawei.jpg' height=35 width=35></span>**<br>
