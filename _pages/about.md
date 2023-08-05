@@ -28,6 +28,7 @@ The researches in this Lab focus on new strategies for "Customizable Computing".
   * **New Software/Hardware Architectures for AI,** i.e. sparsity-aware AI chip design based on RISC-V Gemini project. 
 
 ## Services
+* 2023.7，CCFSys 2023，隐私计算软硬协同加速技术论坛，论坛主席&演讲嘉宾，演讲题目——“全同态处理器和算子库的设计探索” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/CCFSys2023-HANGLU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/ccfsys_logo.jpg' height=30 width=120>
 * 2022.12，受邀参加新浪2022科技风云榜年度盛典，并做报告——[**“数字经济中的隐私计算技术与芯片”**](https://finance.sina.cn/tech/2022-12-16/detail-imxwwaqr1918441.d.html) <img src='/images/sinatech.jfif' height=35 width=35>
 * 2022.12，HPC China 2022，第二届超大规模HPC系统研制论坛，演讲嘉宾，演讲题目——“领域应用的定制化硬件加速方法” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/HPCChina2022-HANGLU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/hpcchina2022logo.png' height=30 width=60>
 * 2022.11，受邀参加OPPO TALK，并做报告——“重塑计算系统——服务于深度学习和隐私保护计算的软硬件协同设计方法” <img src='/images/oppo.jpg' height=25 width=50>
