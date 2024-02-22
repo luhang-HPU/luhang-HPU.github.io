@@ -13,7 +13,7 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*
 
 [<big>**Mortar-FP8: Morphing the Existing FP32 Infrastructure for High Performance Deep Learning Acceleration**</big>](/files/Mortar-FP8-TCAD24.pdf)<br>
 Hongyan Li, **Hang Lu\* (路航)**, Xiaowei Li<br>
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), Early Access.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2024.
 
 [<big>**Poseidon-NDP: Practical Fully Homomorphic Encryption Accelerator Based on Near Data Processing Architecture**</big>](/files/Poseidon-NDP-TCAD2023.pdf)<br>
 Yinghao Yang, **Hang Lu\* (路航)**, Xiaowei Li<br>
