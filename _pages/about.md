@@ -45,11 +45,13 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 ## Recruiting （招生）
 <p style="text-align:justify; text-justify:inter-ideograph;"><b>我们都非常年轻，有激情，是个充满活力的团队！</b>大家来自五湖四海有缘相聚在一起，为共同的事业努力，一起学习共同进步。</p>
 <p style="text-align:justify; text-justify:inter-ideograph;"><b>我们希望你：</b>出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过FPGA设计相关比赛如<span style="color:#953734;"><b>DAC System Design Contest (SDC)，Low Power Computer Vision Challenge (LPCV)，CCF/Xilinx定制计算大赛（CCC）</b></span>或隐私计算相关比赛如<span style="color:#953734;"><b>国际隐私计算大赛（iDASH），隐私计算Hackathon，“星河杯”隐私计算大赛</b></span>并拿到过名次。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><span style="color:#953734;"><b>我还有1个2024年“考研”招生名额，欢迎优秀的你联系我！</b></span><img src='/images/onshore.jpg' height=70 width=120></p>
+
 **Other useful links:**<br>
 [**中国科学院大学个人主页**](http://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-[**上海科技大学信息科学与技术学院**](https://sist.shanghaitech.edu.cn/2022/0316/c2863a414607/page.htm)<br>
+[**上海科技大学信息科学与技术学院**](https://sist.shanghaitech.edu.cn/)<br>
 
-[**中国科学院计算技术研究所2023年暑期班招生简章**](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202306/t20230612_6776566.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
+[**中国科学院计算技术研究所2023年暑期班招生简章**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
 
 <img src='/images/CCL.jpg'><br><br>
 **We need you here and welcome on board!**
