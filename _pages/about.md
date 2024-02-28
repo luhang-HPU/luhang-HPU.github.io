@@ -48,7 +48,7 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 <p style="text-align:justify; text-justify:inter-ideograph;"><span style="color:#953734;"><b>我还有1个2024年“考研”招生名额，欢迎优秀的你联系我！</b></span><img src='/images/onshore.jpg' height=70 width=120></p>
 
 **Other useful links:**<br>
-[**中国科学院大学个人主页**](http://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+[**中国科学院大学个人主页**](http://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 [**上海科技大学信息科学与技术学院**](https://sist.shanghaitech.edu.cn/)<br>
 
 [**中国科学院计算技术研究所2023年暑期班招生简章**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
