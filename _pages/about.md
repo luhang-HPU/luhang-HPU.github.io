@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Hang Lu is currently an Associate Professor and Master Tutor with the State Key Laboratory of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He is a member of the Youth Innovation Promotion Association of CAS, and the New Best Star of ICT. He received the BS degree and MS degree of Beihang University (major: Electronic and Information Engineering) at 2008 and 2011 respectively, and received the Ph.d of the University of Chinese Acedemy of Sciences (major: Computer Architecture). </p>
+Hang Lu is currently an Associate Professor and Master Tutor with the State Key Laboratory of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He is a member of the Youth Innovation Promotion Association of CAS, and the New Best Star of ICT. He is also serving as the guest master supervisor with ShanghaiTech University and University of Electronic Science and Technology of China (UESTC). He is an Associate Professor with the Zhongguancun Laboratory. He received the BS degree and MS degree of Beihang University (major: Electronic and Information Engineering) at 2008 and 2011 respectively, and received the Ph.d of the University of Chinese Acedemy of Sciences (major: Computer Architecture). </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 His research interest is Homomorphic Processing Unit (HPU), which is an emerging and cutting-edge research area regarding the software/hardware co-design for the fully homomorphic encryption (FHE). He and his teammates have developed the high-performance HPUs - ZhangJiang No.1, and Yangtse, the FHE computing library – Poseidon, the communication-and-computation co-optimized Privacy Set Intersection (PSI) based on FHE, Trusted Execution Environment (TEE) for RISC-V, etc. The researches have been published on various international leading conferences and journals like MICRO、HPCA、DAC、ICCAD、TCAD、TVLSI、ICPP、ICCD、ASPDAC, and awarded as the best paper candidate once. He owns 8 PCTs, authorized by China, USA, EU, Japan, South Korea. Within the past 10 years, he directly presides or participates multiple NSFC projects as well as the collaborative projects with Huawei and OPPO. Besides, he has published one monograph and one translation respectively, and serves as the young associate editor (JCST), reviewer and session chair of many top conferences in his research area. He was awarded by CAS and ICT as Ph.d candidate as well.</p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-<b>路航，现任中国科学院计算技术研究所处理器芯片全国重点实验室副研究员、硕士生导师，中国科学院青年创新促进会成员，计算所新百星，上海科技大学合作硕士生导师，电子科技大学客座研究生导师。</b>路航分别于2008年和2011年获得北京航空航天大学工学学士和工学硕士学位（专业：电子信息工程），2015年获得中国科学院大学工学博士学位（中国科学院计算技术研究所，专业：计算机系统结构）。</p>
+<b>路航，现任中国科学院计算技术研究所处理器芯片全国重点实验室副研究员、硕士生导师，中国科学院青年创新促进会成员，计算所新百星，上海科技大学合作硕士生导师，电子科技大学客座研究生导师，中关村实验室副研究员。</b>路航分别于2008年和2011年获得北京航空航天大学工学学士和工学硕士学位（专业：电子信息工程），2015年获得中国科学院大学工学博士学位（中国科学院计算技术研究所，专业：计算机系统结构）。</p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 <b>路航的主要研究方向为全同态处理器（HPU），涉及针对全同态加密（FHE）软硬件协同设计关键技术的新兴和前沿研究领域。</b>路航带领团队研发出多款高性能HPU——<b>“张江壹号”</b>和<b>“扬子江”</b>、全同态计算库——<b>Poseidon</b>、基于FHE的通信和计算优化的隐私求交（PSI）、面向RISC-V的全国产可信执行环境（TEE）等。相关研究成果发表在MICRO、HPCA、DAC、ICCAD、TCAD、TVLSI、ICPP、ICCD、ASPDAC等领域内国际权威期刊和会议，并获最佳论文奖提名1次。路航拥有8项“国际发明专利”，授权国家包括中国、美国、欧盟、日本、韩国。近十年来，路航负责或参与多项国家自然科学基金项目以及华为、oppo等企事业单位合作研究项目。此外，他还出版1部专著和1部译著，担任领域内权威学术期刊JCST的青年副编辑以及国际顶级会议的审稿人和session主席。在学期间他曾获得国家奖学金提名，中国科学院“朱李月华”优秀博士生奖，中科院计算所“所长特别奖”等荣誉。</p>
 
@@ -22,8 +22,10 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 <p style="text-align:justify; text-justify:inter-ideograph;">
 <b>We consider this hot topic from both the software and hardware perspective, and seek to find an appropriate way to <span style="color:#953734;">design the HPUs to serve the intelligent and secure systems</span>. Our research interests include:</b></p>
 
-  * **Homomorphic Processing Unit (HPU),** including the fully homomorphic encryption acceleration on FPGA and ASIC, custom FHE library for the HPU, privacy enhanced applications based on FHE (like PSI, PIR etc.) and their deployment on the HPU.
+  * **Homomorphic Processing Unit (HPU),** including HPU micro-architecture design on FPGA and ASIC, specialized FHE library (Poseidon), driver and runtime development for the HPU. 
+  * **Complier for HPU,** we are designing a highly optimized compiler for HPU, termed as Apollo. 
   * **TEE for RISC-V,**  for constructing the highly scalable, high security and high performance TEE on XiangShan RISC-V cores. 
+  * **Software Framework & User Application Development,** for integrating the HPU technology stack (“张江壹号” and “扬子江”, Poseidon, Apollo) with the mainstream privacy computing frameworks (i.e. SecretFlow, Primihub, etc.) and developing privacy enhanced applications based on FHE (i.e. PSI, PIR, secure deep learning, federated learning, etc.) and their deployment on the HPU.
 
 ## Services
 * 2023.11，隐私计算全球发展报告，编委 **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/《2023全球隐私计算报告》.pdf)<span style="color:#953734;">\]</span>** <img src='/images/mpcLogo.png' height=37 width=120>
@@ -44,8 +46,8 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 
 ## Recruiting （招生）
 <p style="text-align:justify; text-justify:inter-ideograph;"><b>我们都非常年轻，有激情，是个充满活力的团队！</b>大家来自五湖四海有缘相聚在一起，为共同的事业努力，一起学习共同进步。</p>
-<p style="text-align:justify; text-justify:inter-ideograph;"><b>我们希望你：</b>出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过处理器设计相关项目如<span style="color:#953734;"><b>“一生一芯”，“龙芯杯”</b></span>或FPGA设计相关比赛如<span style="color:#953734;"><b>DAC System Design Contest (SDC)，Low Power Computer Vision Challenge (LPCV)，CCF/Xilinx定制计算大赛（CCC）</b></span>或隐私计算相关比赛如<span style="color:#953734;"><b>国际隐私计算大赛（iDASH），隐私计算Hackathon，“星河杯”隐私计算大赛</b></span>并拿到过名次。</p>
-<p style="text-align:justify; text-justify:inter-ideograph;"><span style="color:#953734;"><b>我还有1个2024年“考研”招生名额（明年我在暑期班或者九推就会用掉名额），欢迎优秀的你联系我！</b></span><img src='/images/onshore.jpg' height=70 width=120></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><b>我们希望你（包括但不局限于）：</b>出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过处理器设计相关项目如<span style="color:#953734;"><b>“一生一芯”，“龙芯杯”</b></span>或FPGA设计相关比赛如<span style="color:#953734;"><b>CCF/Xilinx定制计算大赛（CCC）</b></span>或隐私计算相关比赛如<span style="color:#953734;"><b>国际隐私计算大赛（iDASH），隐私计算Hackathon，“星河杯”隐私计算大赛</b></span>并拿到过名次（以上非硬性要求）。</p>
+<!--<p style="text-align:justify; text-justify:inter-ideograph;"><span style="color:#953734;"><b>我还有1个2024年“考研”招生名额（明年我在暑期班或者九推就会用掉名额），欢迎优秀的你联系我！</b></span><img src='/images/onshore.jpg' height=70 width=120></p>-->
 
 **Other useful links:**<br>
 [**中国科学院大学个人主页**](http://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
@@ -53,5 +55,6 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 
 [**中国科学院计算技术研究所2023年暑期班招生简章**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
 
-<img src='/images/CCL.jpg'><br><br>
+<img src='/images/HPU-lab-BJ.jpg'><br>
+<img src='/images/HPU-lab-SH.jpg'><br><br>
 **We need you here and welcome on board!**
