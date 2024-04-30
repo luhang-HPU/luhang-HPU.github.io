@@ -9,7 +9,7 @@ author_profile: true
 
 [<big>**General Purpose Deep Learning Accelerator Based On Bit Interleaving**</big>](/files/bitlet-TCAD24.pdf)<br>
 Liang Chang, **Hang Lu (路航)**, Chenglong Li, Xin Zhao, Zhicheng Hu, Jun Zhou, Xiaowei Li<br>
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), Early Access.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2024.
 
 [<big>**Mortar-FP8: Morphing the Existing FP32 Infrastructure for High Performance Deep Learning Acceleration**</big>](/files/Mortar-FP8-TCAD24.pdf)<br>
 Hongyan Li, **Hang Lu\* (路航)**, Xiaowei Li<br>
@@ -91,6 +91,7 @@ IEEE 20th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类�
 **Hang Lu\* (路航)**, Guihai Yan, Yinhe Han, Binzhang Fu, Xiaowei Li<br>
 IEEE/ACM 50th International Design Automation Conference (**DAC, CCF A类**), 2013.
 
+<!--
 ## Patents
 
 **Allocating threads on a non-rectangular area on a NoC based on predicted traffic of a smallest rectangular area，国际发明专利**，授权国家：美国US9965335B2<br>
@@ -107,7 +108,7 @@ IEEE/ACM 50th International Design Automation Conference (**DAC, CCF A类**), 20
 
 **权重捏合神经网络加速器架构设计**，中国，201811214310.8<br>
 李晓维，魏鑫，**路航**
-
+-->
 ## Books
 
 [**《多核处理器设计优化——低功耗、高可靠、易测试》**](https://item.jd.com/10041688084122.html)，科学出版社，2021.<br>
