@@ -46,14 +46,17 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 
 ## Recruiting （招生）
 <p style="text-align:justify; text-justify:inter-ideograph;"><b>我们都非常年轻，有激情，是个充满活力的团队！</b>大家来自五湖四海有缘相聚在一起，为共同的事业努力，一起学习共同进步。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><b>很多同学不清楚HPU是什么，这是一个冉冉升起的新型领域专用处理器！</b>一些大厂例如华为、蚂蚁集团、各大云服务提供商都在试图通过全同态加密以及可信执行环境的方式保护敏感数据安全，让数据直接在密态下进行计算（不暴露明文），而我们要做的就是用专用处理器加速这一过程。我们研究从硬件架构设计==>算子库==>编译器==>框架==>应用程序的整个链条，取得了国内外瞩目的学术成果并研制出两款商用HPU系统原型。我们也和蚂蚁集团、华为、飞腾、亚信等头部企业建立了广泛合作，In other words，从事这个领域的研究，你就业能去大厂！</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><b>我们还在中关村实验室的支持下大力推进HPU的学术研究和工程研制。</b>我的学生全部以“访问学生”身份在中关村实验室开展工作，每月除计算所发放的基本RA外，还可额外领取中关村实验室发放的5000+RMB的研究补助，三餐自助且免费！你读研期间会过得很爽！</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><b>我团队有6名博士，优秀的硕士生可以在第二或第三学年末转博。</b>其他信息请去我主页projects、life和feats页面详细了解。我每年只有1个保研名额，提前联系会更有优势。</p>
 <p style="text-align:justify; text-justify:inter-ideograph;"><b>我们希望你（包括但不局限于）：</b>出身于电子工程或者计算机科学与技术相关专业，有一定的动手能力，最好参加过处理器设计相关项目如<span style="color:#953734;"><b>“一生一芯”，“龙芯杯”</b></span>或FPGA设计相关比赛如<span style="color:#953734;"><b>CCF/Xilinx定制计算大赛（CCC）</b></span>或隐私计算相关比赛如<span style="color:#953734;"><b>国际隐私计算大赛（iDASH），隐私计算Hackathon，“星河杯”隐私计算大赛</b></span>并拿到过名次（以上非硬性要求）。</p>
 <!--<p style="text-align:justify; text-justify:inter-ideograph;"><span style="color:#953734;"><b>我还有1个2024年“考研”招生名额（明年我在暑期班或者九推就会用掉名额），欢迎优秀的你联系我！</b></span><img src='/images/onshore.jpg' height=70 width=120></p>-->
 
 **Other useful links:**<br>
-[**中国科学院大学个人主页**](http://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+[**中国科学院大学个人主页**](https://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.ac.cn/sourcedb/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 [**上海科技大学信息科学与技术学院**](https://sist.shanghaitech.edu.cn/)<br>
 
-[**中国科学院计算技术研究所2023年暑期班招生简章**](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201912/t20191210_5451510.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
+[**中国科学院计算技术研究所2024年暑期班招生简章**](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202406/t20240618_7191570.html)已经公布，暑期班期间的推免生面试时间预计在7月20日左右，具体面试形式（线上或线下）待定。<br>
 
 <img src='/images/HPU-lab-BJ.jpg'><br>
 <img src='/images/HPU-lab-SH.jpg'><br><br>
