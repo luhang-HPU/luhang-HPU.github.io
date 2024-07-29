@@ -29,11 +29,11 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 
 ## Services
 * 2024.7，CCF Chip 2024，中国计算机学会芯片大会，组委会 <img src='/images/ccfchip2024-logo.png' height=22 width=126>
-* 2024.5，IEEE Transactions on Circuits and Systems I (TCAS-I), Reviewer <img src='/images/TCAS-I.jpg' height=35 width=28>
-* 2023.12，IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Reviewer <img src='/images/TVLSI.jpg' height=35 width=26>
+* 2024.5, IEEE Transactions on Circuits and Systems I (TCAS-I), Reviewer <img src='/images/TCAS-I.jpg' height=35 width=28>
+* 2023.12, IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Reviewer <img src='/images/TVLSI.jpg' height=35 width=26>
 * 2023.11，隐私计算全球发展报告，编委 **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/《2023全球隐私计算报告》.pdf)<span style="color:#953734;">\]</span>** <img src='/images/mpcLogo.png' height=37 width=120>
 * 2023.11, the 51st International Symposium on Computer Architecture (ISCA), External Review Committee <img src='/images/ISCA_2024_v2.png' height=30 width=49>
-* 2023.8，IEEE Transactions on Circuits and Systems II (TCAS-II), Reviewer <img src='/images/TCAS-II.png' height=22 width=81>
+* 2023.8, IEEE Transactions on Circuits and Systems II (TCAS-II), Reviewer <img src='/images/TCAS-II.png' height=22 width=81>
 * 2023.8，中国科学院青年创新促进会信息与管理分会2023年学术年会，网络计算与信息安全论坛，演讲嘉宾，演讲题目——“全同态处理器和算子库的设计探索” <img src='/images/CAS.webp' height=35 width=35> <img src='/images/youth.png' height=34 width=34>
 * 2023.8，CCFSys 2023，隐私计算软硬协同加速技术论坛，论坛主席&演讲嘉宾，演讲题目——“全同态处理器和算子库的设计探索” **<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/CCFSys2023-HANGLU.pdf)<span style="color:#953734;">\]</span>** <img src='/images/ccfsys_logo.jpg' height=22 width=120>
 * 2022.12，受邀参加新浪2022科技风云榜年度盛典，并做报告——[**“数字经济中的隐私计算技术与芯片”**](https://finance.sina.cn/tech/2022-12-16/detail-imxwwaqr1918441.d.html) <img src='/images/sinatech.jfif' height=35 width=35>
