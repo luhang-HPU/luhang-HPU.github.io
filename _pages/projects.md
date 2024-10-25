@@ -17,7 +17,7 @@ author_profile: true
 </video>
 
 ## TEE for RISC-V (in progress)
-**This project is also sponsored by <span style="color:#953734;">Zhongguancun Laboratory（中关村实验室）<img src='/images/ZGC_logo.jpg' height=35 width=35></span>**<br>
+**This project is sponsored by <span style="color:#953734;">Zhongguancun Laboratory（中关村实验室）<img src='/images/ZGC_logo.jpg' height=35 width=35></span>**<br>
 <img src="/images/TEE.jpg" align="left" width="480" hspace="9" vspace="5" />可信执行环境（TEE）是一种具有运算和储存功能，能提供安全性和完整性保护的独立处理环境。其基本思想是：在硬件中为敏感数据单独分配一块隔离的内存，所有敏感数据的计算均在这块内存中进行，除了经过授权的接口外，应用程序不能访问这块隔离内存中的信息，以此来实现敏感数据的隐私计算。TEE能够保护运行在其中的代码和数据免受外部攻击，包括来自操作系统、硬件和其他应用程序的攻击。TEE的用途非常广泛，例如提供安全的支付环境，保证支付过程中的安全性和隐私性，Apple Pay等移动支付服务就使用了TEE技术。TEE还可以提供安全的身份验证环境，防止身份被盗用或伪造，例如银行使用TEE技术来保护客户的账户安全。<b>本项目在“香山”系列RISC-V处理器上构建全国产可信执行环境，包括安全固件、安全微结构、硬件可信根、编程API和SDK等。</b>
 
 <!--
