@@ -7,6 +7,14 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA**</big>](/files/Hydra-HPCA2025.pdf)<br>
+Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)**, Xiaowei Li<br>
+IEEE 31st International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2025.
+
+[<big>**Dep-TEE: Decoupled Memory Protection for Secure and Scalable Inter-enclave Communication on RISC-V**</big>](/files/DepTEE-ASPDAC2025.pdf)<br>
+Shangjie Pan, Xuanyao Peng, Zeyuan Man, Xiquan Zhao, Dongrong Zhang, Bicheng Yang, Dong Du, **Hang Lu\* (路航)**, Yubin Xia, Xiaowei Li<br>
+ACM 30th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2025.
+
 [<big>**General Purpose Deep Learning Accelerator Based On Bit Interleaving**</big>](/files/bitlet-TCAD24.pdf)<br>
 Liang Chang, **Hang Lu (路航)**, Chenglong Li, Xin Zhao, Zhicheng Hu, Jun Zhou, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2024.
