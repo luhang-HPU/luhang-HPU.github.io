@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Trident: the Acceleration Architecture for High-Performance Private Set Intersection**</big>](/files/Hydra-HPCA2025.pdf)<br>
+Jinkai Zhang, Yinghao Yang, Zhe Zhou, Zhicheng Hu, Xin Zhao, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
+IEEE Transactions on Computers (**TC, CCF A类**), accepted, 2025.
+
 [<big>**Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA**</big>](/files/Hydra-HPCA2025.pdf)<br>
 Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE 31st International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2025.
