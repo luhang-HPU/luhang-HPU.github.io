@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Papers
 
-[<big>**Trident: the Acceleration Architecture for High-Performance Private Set Intersection**</big>](/files/Hydra-HPCA2025.pdf)<br>
+[<big>**Trident: the Acceleration Architecture for High-Performance Private Set Intersection**</big>](/files/Trident_TC2025.pdf)<br>
 Jinkai Zhang, Yinghao Yang, Zhe Zhou, Zhicheng Hu, Xin Zhao, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE Transactions on Computers (**TC, CCF A类**), accepted, 2025.
 
