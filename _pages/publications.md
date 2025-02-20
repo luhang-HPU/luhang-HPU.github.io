@@ -7,11 +7,19 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Hypnos: Memory Efficient Homomorphic Processing Unit**</big>](/files/CR.pdf)<br>
+Haoxuan Wang, Yinghao Yang, **Hang Lu\* (路航)**, Xiaowei Li<br>
+62nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2025.
+
+[<big>**Ares: High Performance Near-Storage Accelerator for FHE-based Private Set Intersection**</big>](/files/CR.pdf)<br>
+Haoxuan Wang, Yinghao Yang, Jinkai Zhang, **Hang Lu\* (路航)**, Xiaowei Li<br>
+62nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2025.
+
 [<big>**Trident: the Acceleration Architecture for High-Performance Private Set Intersection**</big>](/files/Trident_TC2025.pdf)<br>
 Jinkai Zhang, Yinghao Yang, Zhe Zhou, Zhicheng Hu, Xin Zhao, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE Transactions on Computers (**TC, CCF A类**), accepted, 2025.
 
-[<big>**Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA**</big>](/files/Hydra-HPCA2025.pdf)<br>
+[<big>**Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA**</big>](/files/CR.pdf)<br>
 Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE 31st International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2025.
 
