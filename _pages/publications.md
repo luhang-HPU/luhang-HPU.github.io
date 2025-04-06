@@ -7,11 +7,11 @@ author_profile: true
 
 ## Research Papers
 
-[<big>**Hypnos: Memory Efficient Homomorphic Processing Unit**</big>](/files/CR.pdf)<br>
+[<big>**Hypnos: Memory Efficient Homomorphic Processing Unit**</big>](/files/Hypnos-DAC2025.pdf)<br>
 Haoxuan Wang, Yinghao Yang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 62nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2025.
 
-[<big>**Ares: High Performance Near-Storage Accelerator for FHE-based Private Set Intersection**</big>](/files/CR.pdf)<br>
+[<big>**Ares: High Performance Near-Storage Accelerator for FHE-based Private Set Intersection**</big>](/files/Ares-DAC2025.pdf)<br>
 Haoxuan Wang, Yinghao Yang, Jinkai Zhang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 62nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2025.
 
