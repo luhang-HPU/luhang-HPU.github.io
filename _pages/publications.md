@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks**</big>](/files/CR.pdf)<br>
+Zhaoxuan Kan, Jianan Mu, Husheng Han, Shangyi Shi, Tenghui Hua, **Hang Lu (路航)**, Xiaowei Li, Xing Hu<br>
+42nd International Conference on Machine Learning (**ICML, CCF A类**), 2025.
+
 [<big>**Hypnos: Memory Efficient Homomorphic Processing Unit**</big>](/files/Hypnos-DAC2025.pdf)<br>
 Haoxuan Wang, Yinghao Yang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 62nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2025.
