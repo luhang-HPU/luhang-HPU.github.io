@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**LayerTEE: Decoupled Memory Protection for Scalable Multi-Layer Communication on RISC-V**</big>](/files/CR.pdf)<br>
+Shangjie Pan, Yinghao Yang, Xuanyao Peng, Xiquan Zhao, Dong Du, **Hang Lu (路航)**, Yubin Xia, Xiaowei Li<br>
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2025.
+
 [<big>**FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks**</big>](/files/CR.pdf)<br>
 Zhaoxuan Kan, Jianan Mu, Husheng Han, Shangyi Shi, Tenghui Hua, **Hang Lu (路航)**, Xiaowei Li, Xing Hu<br>
 42nd International Conference on Machine Learning (**ICML, CCF A类**), 2025.
@@ -21,7 +25,7 @@ Haoxuan Wang, Yinghao Yang, Jinkai Zhang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 
 [<big>**Trident: the Acceleration Architecture for High-Performance Private Set Intersection**</big>](/files/Trident_TC2025.pdf)<br>
 Jinkai Zhang, Yinghao Yang, Zhe Zhou, Zhicheng Hu, Xin Zhao, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
-IEEE Transactions on Computers (**TC, CCF A类**), accepted, 2025.
+IEEE Transactions on Computers (**TC, CCF A类**), 2025.
 
 [<big>**Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA**</big>](/files/Hydra_HPCA2025.pdf)<br>
 Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)**, Xiaowei Li<br>
