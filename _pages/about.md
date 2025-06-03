@@ -28,6 +28,7 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
   * **Software Framework & User Application Development,** for integrating the HPU technology stack (“张江壹号” and “扬子江”, Poseidon, Apollo) with the mainstream privacy computing frameworks (i.e. SecretFlow, Primihub, etc.) and developing privacy enhanced applications based on FHE (i.e. PSI, PIR, secure deep learning, federated learning, etc.) and their deployment on the HPU.
 
 ## Services
+* 2025.6, IEEE Transactions on Information Forensics and Security (TIFS), Reviewer <img src='/images/TIFS.jpg' height=30 width=146>
 * 2025.3, the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO), Program Committee <img src='/images/micro-red.png' height=30 width=37>
 * 2024.11, the 52nd International Symposium on Computer Architecture (ISCA), Program Committee <img src='/images/ISCA_2025.png' height=30 width=49>
 * 2024.11, IEEE Transactions on Computers (TC), Reviewer <img src='/images/TC.png' height=30 width=81>
