@@ -7,6 +7,18 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Uranus: Ultra-efficient Acceleration Architecture for the Privacy Inference of Graph Neural Networks**</big>](/files/CR.pdf)<br>
+Xicheng Xu, Yinghao Yang, Fuyao Liu, **Hang Lu (路航)** and Xiaowei Li<br>
+The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
+
+[<big>**RTPU: Unifying Non-Private and Private Inference with Reconfigurable Architecture**</big>](/files/CR.pdf)<br>
+Fuping Li, Ying Wang, Yinghao Yang, Jingxuan Li, Yibo Du, Huawei Li, Yinhe Han, **Hang Lu (路航)** and Xiaowei Li<br>
+The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
+
+[<big>**SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds**</big>](/files/CR.pdf)<br>
+Yunkun Liao, Jingya Wu, Wenyan Lu, **Hang Lu (路航)**, Xiaowei Li and Guihai Yan<br>
+The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
+
 [<big>**LayerTEE: Decoupled Memory Protection for Scalable Multi-Layer Communication on RISC-V**</big>](/files/CR.pdf)<br>
 Shangjie Pan, Yinghao Yang, Xuanyao Peng, Xiquan Zhao, Dong Du, **Hang Lu (路航)**, Yubin Xia, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2025.
