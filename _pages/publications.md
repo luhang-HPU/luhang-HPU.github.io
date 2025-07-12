@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Athena: Accelerating Quantized Convolutional Neural Networks under Fully Homomorphic Encryption**</big>](/files/CR.pdf)<br>
+Yinghao Yang, Xicheng Xu, Liang Chang, **Hang Lu (路航)**, Xiaowei Li<br>
+IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2025.
+
 [<big>**Uranus: Ultra-efficient Acceleration Architecture for the Privacy Inference of Graph Neural Networks**</big>](/files/CR.pdf)<br>
 Xicheng Xu, Yinghao Yang, Fuyao Liu, **Hang Lu (路航)** and Xiaowei Li<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
