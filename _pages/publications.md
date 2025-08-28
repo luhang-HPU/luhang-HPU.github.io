@@ -23,11 +23,11 @@ IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)
 Zehao Chen, Honghui You, Qian Wei, **Hang Lu (路航)**, Zhaoyan Shen, Lei Ju<br>
 IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2025.
 
-[<big>**Uranus: Ultra-efficient Acceleration Architecture for the Privacy Inference of Graph Neural Networks**</big>](/files/CR.pdf)<br>
+[<big>**Uranus: Ultra-efficient Acceleration Architecture for the Privacy Inference of Graph Neural Networks**</big>](/files/Uranus-ICCAD25.pdf)<br>
 Xicheng Xu, Yinghao Yang, Fuyao Liu, **Hang Lu\* (路航)** and Xiaowei Li<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
 
-[<big>**RTPU: Unifying Non-Private and Private Inference with Reconfigurable Architecture**</big>](/files/CR.pdf)<br>
+[<big>**RTPU: Unifying Non-Private and Private Inference with Reconfigurable Architecture**</big>](/files/RTPU_ICCAD25.pdf)<br>
 Fuping Li, Ying Wang, Yinghao Yang, Jingxuan Li, Yibo Du, Huawei Li, Yinhe Han, **Hang Lu\* (路航)** and Xiaowei Li<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
 
