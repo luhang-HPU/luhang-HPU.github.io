@@ -19,6 +19,10 @@ The 43rd IEEE International Conference on Computer Design (**ICCD, CCF B类**), 
 Yinghao Yang, Xicheng Xu, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2025.
 
+[<big>**SmartPIR: A Private Information Retrieval System using Computational Storage Devices**</big>](/files/CR.pdf)<br>
+Zehao Chen, Honghui You, Qian Wei, **Hang Lu (路航)**, Zhaoyan Shen, Lei Ju<br>
+IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2025.
+
 [<big>**Uranus: Ultra-efficient Acceleration Architecture for the Privacy Inference of Graph Neural Networks**</big>](/files/CR.pdf)<br>
 Xicheng Xu, Yinghao Yang, Fuyao Liu, **Hang Lu\* (路航)** and Xiaowei Li<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
@@ -27,7 +31,7 @@ The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**)
 Fuping Li, Ying Wang, Yinghao Yang, Jingxuan Li, Yibo Du, Huawei Li, Yinhe Han, **Hang Lu\* (路航)** and Xiaowei Li<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
 
-[<big>**SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds**</big>](/files/CR.pdf)<br>
+[<big>**SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds**</big>](/files/SNO_ICCAD25.pdf)<br>
 Yunkun Liao, Jingya Wu, Wenyan Lu, **Hang Lu\* (路航)**, Xiaowei Li and Guihai Yan<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
 
@@ -35,7 +39,7 @@ The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**)
 Shangjie Pan, Yinghao Yang, Xuanyao Peng, Xiquan Zhao, Dong Du, **Hang Lu\* (路航)**, Yubin Xia, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2025.
 
-[<big>**FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks**</big>](/files/CR.pdf)<br>
+[<big>**FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks**</big>](/files/FicGCN_ICML25.pdf)<br>
 Zhaoxuan Kan, Jianan Mu, Husheng Han, Shangyi Shi, Tenghui Hua, **Hang Lu (路航)**, Xiaowei Li, Xing Hu<br>
 42nd International Conference on Machine Learning (**ICML, CCF A类**), 2025.
 
