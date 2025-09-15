@@ -35,7 +35,7 @@ The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**)
 Yunkun Liao, Jingya Wu, Wenyan Lu, **Hang Lu\* (路航)**, Xiaowei Li and Guihai Yan<br>
 The 2025 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2025.
 
-[<big>**LayerTEE: Decoupled Memory Protection for Scalable Multi-Layer Communication on RISC-V**</big>](/files/CR.pdf)<br>
+[<big>**LayerTEE: Decoupled Memory Protection for Scalable Multi-Layer Communication on RISC-V**</big>](/files/LayerTEE_TCAD2025.pdf)<br>
 Shangjie Pan, Yinghao Yang, Xuanyao Peng, Xiquan Zhao, Dong Du, **Hang Lu\* (路航)**, Yubin Xia, Xiaowei Li<br>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2025.
 
