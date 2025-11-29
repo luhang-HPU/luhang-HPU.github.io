@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Conflux: A High-Performance Keyword Private Retrieval System for Dynamic Datasets**</big>](/files/CR.pdf)<br>
+Zehao Chen, Zhaoyan Shen, Qian Wei, **Hang Lu (路航)**, Lei Ju<br>
+IEEE 32nd International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2026.
+
 [<big>**AceHomo: Accelerating Privacy Preserving Inference through Dynamic Level Adjustment**</big>](/files/CR.pdf)<br>
 Hongyan Li, Jinkai Zhang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 The 43rd IEEE International Conference on Computer Design (**ICCD, CCF B类**), 2025.
