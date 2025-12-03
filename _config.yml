@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hang Lu（路航）"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor, Master Tutor, State Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences; Master Tutor, ShanghaiTech University; Master Tutor, University of Electronic Science and Technology of China; Research Scientist, Shanghai Innovation Center for Processor Technologies"
-  location         : "Beijing/Shanghai, China"
+  bio              : "Associate Professor, Master Tutor, State Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences; Master Tutor, ShanghaiTech University; Master Tutor, University of Electronic Science and Technology of China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

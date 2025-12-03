@@ -7,6 +7,10 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**SoK: Analysis of Accelerator TEE Designs**</big>](/files/CR.pdf)<br>
+Chenxu Wang, Junjie Huang, Yujun Liang, Xuanyao Peng, Yuqun Zhang, Fengwei Zhang, Jiannong Cao, **Hang Lu (路航)**, Rui Hou, Shoumeng Yan, Tao Wei, Zhengyu He<br>
+Network and Distributed System Security Symposium (**NDSS, CCF A类**), 2026.
+
 [<big>**Conflux: A High-Performance Keyword Private Retrieval System for Dynamic Datasets**</big>](/files/CR.pdf)<br>
 Zehao Chen, Zhaoyan Shen, Qian Wei, **Hang Lu (路航)**, Lei Ju<br>
 IEEE 32nd International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2026.
