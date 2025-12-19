@@ -15,6 +15,10 @@ Network and Distributed System Security Symposium (**NDSS, CCF A类**), 2026.
 Zehao Chen, Zhaoyan Shen, Qian Wei, **Hang Lu (路航)**, Lei Ju<br>
 IEEE 32nd International Symposium on High-Performance Computer Architecture (**HPCA, CCF A类**), 2026.
 
+[<big>**FlexMem: High-Parallel Near-Memory Architecture for Flexible Dataflow in Fully Homomorphic Encryption**</big>](/files/CR.pdf)<br>
+Shangyi Shi, Husheng Han, Jianan Mu, Xinyao Zheng, Ling Liang, **Hang Lu (路航)**, Zidong Du, Xiaowei Li, Xing Hu<br>
+The 31st Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2026.
+
 [<big>**AceHomo: Accelerating Privacy Preserving Inference through Dynamic Level Adjustment**</big>](/files/CR.pdf)<br>
 Hongyan Li, Jinkai Zhang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 The 43rd IEEE International Conference on Computer Design (**ICCD, CCF B类**), 2025.
@@ -69,7 +73,7 @@ IEEE 31st International Symposium on High-Performance Computer Architecture (**H
 
 [<big>**Dep-TEE: Decoupled Memory Protection for Secure and Scalable Inter-enclave Communication on RISC-V**</big>](/files/DepTEE-ASPDAC2025.pdf)<br>
 Shangjie Pan, Xuanyao Peng, Zeyuan Man, Xiquan Zhao, Dongrong Zhang, Bicheng Yang, Dong Du, **Hang Lu\* (路航)**, Yubin Xia, Xiaowei Li<br>
-ACM 30th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2025.
+The 30th Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2025.
 
 [<big>**General Purpose Deep Learning Accelerator Based On Bit Interleaving**</big>](/files/bitlet-TCAD24.pdf)<br>
 Liang Chang, **Hang Lu (路航)**, Chenglong Li, Xin Zhao, Zhicheng Hu, Jun Zhou, Xiaowei Li<br>
