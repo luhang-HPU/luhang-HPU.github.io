@@ -27,7 +27,7 @@ The 43rd IEEE International Conference on Computer Design (**ICCD, CCF B类**), 
 Xuanyao Peng, Yinghao Yang, Shangjie Pan, Junjie Huang, Yujun Liang, **Hang Lu\* (路航)**, Fengwei Zhang and Xiaowei Li<br>
 The 43rd IEEE International Conference on Computer Design (**ICCD, CCF B类**), 2025.
 
-[<big>**Athena: Accelerating Quantized Convolutional Neural Networks under Fully Homomorphic Encryption**</big>](/files/CR.pdf)<br>
+[<big>**Athena: Accelerating Quantized Convolutional Neural Networks under Fully Homomorphic Encryption**</big>](/files/Athena-MICRO2025.pdf)<br>
 Yinghao Yang, Xicheng Xu, Liang Chang, **Hang Lu\* (路航)**, Xiaowei Li<br>
 IEEE/ACM 58th International Symposium on Microarchitecture (**MICRO, CCF A类**)，2025.
 
