@@ -7,6 +7,19 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**When Cloud TEEs Encounter Availability: A Lightweight Framework for Verifiable CPU Availability**</big>](/files/CR.pdf)<br>
+Shangjie Pan, Haochuan Lei, Yinghao Yang, Dongrong Zhang, Dong Du, **Hang Lu\* (路航)** and Xiaowei Li
+<br>
+63nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2026.
+
+[<big>**Hades: Harnessing Architecture Design Automation for Application-specific FHE Accelerators**</big>](/files/CR.pdf)<br>
+Silin Liu, Yinghao Yang, Fuping Li, **Hang Lu\* (路航)** and Xiaowei Li<br>
+63nd ACM/EDAC/IEEE Design Automation Conference (**DAC, CCF A类**), 2026.
+
+[<big>**Hypnos: A Hardware-Software Co-Design Framework for Memory-Efficient Homomorphic Processing**</big>](/files/CR.pdf)<br>
+Haoxuan Wang, Yinghao Yang, Shangjie Pan, **Hang Lu\* (路航)**, Xiaowei Li<br>
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD, CCF A类**), 2026.
+
 [<big>**PIRacle: A Fast and Scalable Private Information Retrieval System for Key-Value Stores**</big>](/files/CR.pdf)<br>
 Zehao Chen, Zhaoyan Shen, Yi Wang, **Hang Lu (路航)**, Lei Ju<br>
 IEEE Transactions on Computers (**TC, CCF A类**), 2026.
