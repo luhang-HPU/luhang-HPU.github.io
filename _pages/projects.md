@@ -32,6 +32,8 @@ author_profile: true
 </video><br>
 <b>在软件层面，团队自主研发了TEEOS（可信执行环境操作系统）</b>，运行于安全飞地之上，负责飞地的生命周期管理、安全服务调度、密钥管理等核心功能，为上层应用提供标准化的安全服务接口，进一步丰富了可信执行环境的软件生态。
 <b>该处理器已成功流片并完成硅后验证</b>，功能与性能均达到设计预期，可为政务数据、金融数据、医疗数据等敏感信息处理场景提供全国产、高性能、高安全的可信执行环境解决方案。
+
+
 <!--
 ## Sparsity-aware Deep Learning Accelerator (in progress)
 **This project is also collaborated with <span style="color:#953734;">Huawei Technologies Co., Ltd <img src='/images/huawei.jpg' height=35 width=35></span>**<br>
