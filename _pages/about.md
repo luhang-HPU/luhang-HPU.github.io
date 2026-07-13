@@ -28,6 +28,7 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
   * **Software Framework & User Application Development,** for integrating the HPU technology stack (“张江壹号” and “扬子江”, Poseidon, Apollo) with the mainstream privacy computing frameworks (i.e. SecretFlow, Primihub, etc.) and developing privacy enhanced applications based on FHE (i.e. PSI, PIR, secure deep learning, federated learning, etc.) and their deployment on the HPU.
 
 ## Services
+* 2026.7, IEEE International Symposium on High-Performance Computer Architecture (HPCA), Program Committee <img src='/images/hpca_logo.png' height=30 width=27>
 * 2025.11, 63rd ACM/EDAC/IEEE Design Automation Conference (DAC), Program Committee <img src='/images/dac26-logo.webp' height=30 width=82>
 * 2025.10，中关村实验室科学技术协会，第28期青年科技工作者主题沙龙，演讲嘉宾，演讲题目——“软硬件协同的计算系统安全-从理论到实践”**<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/ZGCNL-talk-LUHANG.pdf)<span style="color:#953734;">\]</span>**<img src='/images/CAST.png' height=35 width=35>
 * 2025.7, IEEE International Symposium on High-Performance Computer Architecture (HPCA), Program Committee <img src='/images/HPCA2026_logo.png' height=30 width=146>
@@ -67,7 +68,7 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 [**中国科学院大学个人主页**](https://people.ucas.edu.cn/~luhang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中国科学院计算技术研究所个人主页**](http://www.ict.ac.cn/sourcedb/cn/jssrck/201912/t20191210_5451510.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 [**上海科技大学信息科学与技术学院**](https://sist.shanghaitech.edu.cn/)<br>
 
-[**中国科学院计算技术研究所2025年“计算未来”全国大学生暑期研修班招生简章**](http://www.ict.ac.cn/xwgg/tzgg/202506/t20250630_7876973.html)已经公布，暑期班期间的推免生面试时间预计在8月11日左右，具体形式为线下面试。<br>
+[**中国科学院计算技术研究所2026年“计算未来”全国大学生暑期研修班招生简章**](https://ict.cas.cn/yjsjy/zsxx/sszs/202607/t20260702_8237097.html)已经公布，暑期班期间的推免生面试时间预计在8月16日左右，具体形式为线下面试。<br>
 
 <img src='/images/HPU-lab-BJ.jpg'><br>
 <img src='/images/HPU-lab-SH.jpg'><br><br>
