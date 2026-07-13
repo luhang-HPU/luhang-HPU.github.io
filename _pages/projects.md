@@ -14,7 +14,10 @@ author_profile: true
 <img src="/images/ZJ-1.png" align="left" />
 <video width="981" height="601" controls autoplay muted>  
     <source src="/videos/primihub_machine.mp4" type="video/mp4">
-</video>
+</video><br>
+<img src="/images/信江HPU.png" align="left" width="360" hspace="9" vspace="5" /><b>第三代“信江”架构是我们团队在全同态处理器方向的最新成果，定位为一款面向FHE的专用ASIC芯片。与前代基于FPGA的原型系统相比，“信江”在架构层面实现了全面升级，致力于在大规模密态计算场景下提供更高的能效与性能。<br>
+“信江”采用12nm工艺制程，以国产开源RISC-V处理器“香山”南湖架构为核心，通过FHE专用指令扩展（包括计算指令、访存指令与控制指令），实现了软硬件协同的密态计算加速。在微架构设计上，它支持CKKS、BFV、TFHE等多种主流全同态加密方案，核心计算单元针对数论变换（NTT）、自同构（Automorphism）等全同态加密关键算子进行了深度定制与流水线优化。同时，“信江”延续了多项式级指令集与多项式粒度内存管理单元（MMU）的协同设计与存储架构，通过专用指令与硬件定制相结合，有效减少了大规模密态计算中的非必要数据搬移。<br>
+“信江”具有广阔的应用前景，可广泛应用于金融、政务、医疗等数据高度敏感领域的隐私保护计算场景，为这些行业在数据共享与联合建模过程中提供安全的密态计算能力。</b>
 
 ## TEE for RISC-V (in progress)
 **This project is sponsored by <span style="color:#953734;">Zhongguancun Laboratory（中关村实验室）<img src='/images/ZGC_logo.jpg' height=35 width=35></span>**<br>
