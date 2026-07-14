@@ -71,5 +71,6 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
 [**中国科学院计算技术研究所2026年“计算未来”全国大学生暑期研修班招生简章**](https://ict.cas.cn/yjsjy/zsxx/sszs/202607/t20260702_8237097.html)已经公布，暑期班期间的推免生面试时间预计在8月16日左右，具体形式为线下面试。<br>
 
 <img src='/images/HPU-lab-BJ.jpg'><br>
-<img src='/images/HPU-lab-SH.jpg'><br><br>
+<img src='/images/HPU-lab-SH.jpg'><br>
+<img src='/images/HPU-lab-2025.jpg'><br><br>
 **We need you here and welcome on board!**

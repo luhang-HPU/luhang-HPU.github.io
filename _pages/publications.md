@@ -7,6 +7,11 @@ author_profile: true
 
 ## Research Papers
 
+[<big>**Apollo: Differentiated Bootstrapping Insertion for General Purpose FHE**</big>](/files/CR.pdf)<br>
+Jinkai Zhang, Yinghao Yang, Ming Xu, Xiaowei Li and **Hang Lu\* (路航)**
+<br>
+The 2026 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2026.
+
 [<big>**Odin: Rethinking FHE Accelerator Architecture via Computation-Storage Co-Design**</big>](/files/CR.pdf)<br>
 Silin Liu, Yinghao Yang, Fuyao Liu, Xiaowei Li and **Hang Lu\* (路航)**
 <br>
