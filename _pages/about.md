@@ -28,6 +28,7 @@ The researches in this Lab focus on the acceleration strategies for the "Fully H
   * **Software Framework & User Application Development,** for integrating the HPU technology stack (“张江壹号” and “扬子江”, Poseidon, Apollo) with the mainstream privacy computing frameworks (i.e. SecretFlow, Primihub, etc.) and developing privacy enhanced applications based on FHE (i.e. PSI, PIR, secure deep learning, federated learning, etc.) and their deployment on the HPU.
 
 ## Services
+* 2026.7，第三届CCF芯片大会，大会论坛——[**CF14：第一届中国密态计算论坛**](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824)，论坛主席<img src='/images/CCFchip2026logo.png' height=30 width=126>
 * 2026.7, IEEE International Symposium on High-Performance Computer Architecture (HPCA), Program Committee <img src='/images/hpca_logo.png' height=30 width=27>
 * 2025.11, 63rd ACM/EDAC/IEEE Design Automation Conference (DAC), Program Committee <img src='/images/dac26-logo.webp' height=30 width=82>
 * 2025.10，中关村实验室科学技术协会，第28期青年科技工作者主题沙龙，演讲嘉宾，演讲题目——“软硬件协同的计算系统安全-从理论到实践”**<span style="color:#953734;">\[</span>[<span style="color:#953734;">PDF</span>](/files/ZGCNL-talk-LUHANG.pdf)<span style="color:#953734;">\]</span>**<img src='/images/CAST.png' height=35 width=35>
