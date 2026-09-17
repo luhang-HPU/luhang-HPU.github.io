@@ -22,7 +22,7 @@ Yinghao Yang, Fuyao Liu, Jinkai Zhang, Xiaowei Li and **Hang Lu\* (路航)**
 <br>
 10th International Test Conference in Asia (ITC-Asia, CCF C类), 2026.
 
-[<big>**Homomorphic Processing Unit**</big>](/files/CR.pdf)<br>
+[<big>**Homomorphic Processing Unit**</big>](/files/JCST-HPU.pdf)<br>
 Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)** and Xiaowei Li
 <br>
 Journal of Computer Science and Technology (**JCST, CCF B类**), 2026.
