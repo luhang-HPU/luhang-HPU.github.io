@@ -7,25 +7,26 @@ author_profile: true
 
 ## Research Papers
 
-[<big>**Apollo: Differentiated Bootstrapping Insertion for General Purpose FHE**</big>](/files/CR.pdf)<br>
-Jinkai Zhang, Yinghao Yang, Ming Xu, Xiaowei Li and **Hang Lu\* (路航)**
-<br>
-The 2026 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2026.
+[<big>**Morpheus: The Efficient Acceleration Architecture for Modular Homomorphic Encryption**</big>](/files/CR.pdf)<br>
+Fuyao Liu, Yinghao Yang, Sa Wang, Jing Ye, Huawei Li, Xiaowei Li, Anyu Wang and **Hang Lu\* (路航)**<br>Transactions on Cryptographic Hardware and Embedded Systems (**TCHES, CCF B类**), 2027.
 
-[<big>**Odin: Rethinking FHE Accelerator Architecture via Computation-Storage Co-Design**</big>](/files/CR.pdf)<br>
-Silin Liu, Yinghao Yang, Fuyao Liu, Xiaowei Li and **Hang Lu\* (路航)**
-<br>
-The 2026 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2026.
+[<big>**Unifrost: A Sparsity-Aware FHE Compiler for Privacy-Preserving Neural Networks**</big>](/files/CR.pdf)<br>
+Jinkai Zhang, Yinghao Yang, Ming Xu, Yexin Song, Hongyan Li, Xiaowei Li and **Hang Lu\* (路航)**<br>Transactions on Cryptographic Hardware and Embedded Systems (**TCHES, CCF B类**), 2027.
 
-[<big>**Urania: Unleashing the Potential of Adaptive RNS for Fully Homomorphic Encryption Acceleration**</big>](/files/CR.pdf)<br>
-Yinghao Yang, Fuyao Liu, Jinkai Zhang, Xiaowei Li and **Hang Lu\* (路航)**
-<br>
-10th International Test Conference in Asia (ITC-Asia, CCF C类), 2026.
+[<big>**MinVNS: Minimal Virtual Network Separation for Deadlock Avoidance in Modular Network-on-Chip**</big>](/files/CR.pdf)<br>
+Sen Liang, Hang Zhu, Yinan Xu, Zihao Chen, **Hang Lu (路航)**, Dejun Jiang, Yungang Bao<br>
+The 32nd Asia and South Pacific Design Automation Conference (ASPDAC, CCF C类), 2027.
+
+[<big>**Apollo: Differentiated Bootstrapping Insertion for General Purpose FHE**</big>](/files/CR.pdf)<br>Jinkai Zhang, Yinghao Yang, Ming Xu, Xiaowei Li and **Hang Lu\* (路航)**
+<br>The 2026 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2026.
+
+[<big>**Odin: Rethinking FHE Accelerator Architecture via Computation-Storage Co-Design**</big>](/files/CR.pdf)<br>Silin Liu, Yinghao Yang, Fuyao Liu, Xiaowei Li and **Hang Lu\* (路航)**<br>The 2026 International Conference on Computer-Aided Design (**ICCAD, CCF B类**), 2026.
+
+[<big>**Urania: Unleashing the Potential of Adaptive RNS for Fully Homomorphic Encryption Acceleration**</big>](/files/CR.pdf)<br>Yinghao Yang, Fuyao Liu, Jinkai Zhang, Xiaowei Li and **Hang Lu\* (路航)**<br>10th International Test Conference in Asia (ITC-Asia, CCF C类), 2026.
 
 [<big>**Homomorphic Processing Unit**</big>](/files/JCST-HPU.pdf)<br>
 Yinghao Yang, Xicheng Xu, **Hang Lu\* (路航)** and Xiaowei Li
-<br>
-Journal of Computer Science and Technology (**JCST, CCF B类**), 2026.
+<br>Journal of Computer Science and Technology (**JCST, CCF B类**), 2026.
 
 [<big>**When Cloud TEEs Encounter Availability: A Lightweight Framework for Verifiable CPU Availability**</big>](/files/CR.pdf)<br>
 Shangjie Pan, Haochuan Lei, Yinghao Yang, Dongrong Zhang, Dong Du, **Hang Lu\* (路航)** and Xiaowei Li
